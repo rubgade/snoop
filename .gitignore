@@ -1,0 +1,7 @@
+*.jar
+*.war
+*.ear
+*.MF
+*.bin
+*.lock
+.gradle
